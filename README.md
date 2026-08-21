@@ -1,2 +1,39 @@
 # CS3807---Deep-Learning-Lab
-This repo covers the work done in my Deep Learning Lab as part of my university coursework. 
+
+This repository contains the experiments completed as part of the **CS3807 – Deep Learning Laboratory** course at **Shiv Nadar University Chennai**.
+
+## Experiments
+
+| Experiment | Date | Title | Brief Description |
+|---|---|---|---|
+| **Experiment 1** | 10/07/2026 | **Implementation of a Single Layer Perceptron for Binary Classification** | Implemented a Single Layer Perceptron from scratch and studied the perceptron learning algorithm, activation functions, learning-rate effects, decision boundaries, and binary classification performance using the UCI Banknote Authentication dataset. |
+| **Experiment 2** | 17/07/2026 | **Implementation of a Multi-Layer Perceptron (MLP) for Multi-Class Image Classification** | Built and evaluated a Multi-Layer Perceptron using TensorFlow/Keras for multi-class image classification on Fashion-MNIST. The experiment included preprocessing, model training, performance evaluation, hyperparameter optimization, and an additional XOR analysis. |
+| **Experiment 3** | 31/07/2026 | **Implementation of Convolutional Neural Networks (CNNs) for Image Classification** | Implemented and evaluated a CNN for CIFAR-10 image classification while studying convolution, kernel sizes, stride, padding, pooling operations, feature maps, learned filters, and CNN performance metrics. |
+
+## Repository Structure
+
+```text
+CS3807---Deep-Learning-Lab/
+│
+├── Experiment_1/
+│   ├── Experiment_1.ipynb
+│   ├── README.md
+│   ├── requirements.txt
+│   ├── figures/
+│   └── report/
+│
+├── Experiment_2/
+│   ├── Experiment_2.ipynb
+│   ├── README.md
+│   ├── requirements.txt
+│   ├── figures/
+│   └── report/
+│
+├── Experiment_3/
+│   ├── Experiment_3.ipynb
+│   ├── README.md
+│   ├── requirements.txt
+│   ├── figures/
+│   └── report/
+│
+└── README.md
