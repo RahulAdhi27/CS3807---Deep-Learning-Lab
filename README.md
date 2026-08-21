@@ -1,6 +1,6 @@
 # CS3807---Deep-Learning-Lab
 
-This repository contains the experiments completed as part of the **CS3807 – Deep Learning Laboratory** course at **Shiv Nadar University Chennai**.
+This repository contains the experiments completed as part of the **CS3807 – Deep Learning Laboratory** course.
 
 ## Experiments
 
